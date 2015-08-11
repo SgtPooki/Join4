@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/SgtPooki/Join4/issues"
   },
-  "homepage": "https://github.com/SgtPooki/Join4"
+  "homepage": "https://github.com/SgtPooki/Join4",
+  "devDependencies": {
+    "eslint": "^1.0.0"
+  },
+  "dependencies": {
+    "ejs": "^2.3.3"
+  }
 }

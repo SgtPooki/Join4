@@ -1,0 +1,7 @@
+{
+  "name": "Join4",
+  "description": "Join4 game. See connect4 for description",
+  "repository": "https://github.com/SgtPooki/Join4",
+  "logo": "http://lorempixel.com/32/32/cats/",
+  "keywords": ["node", "express", "static"]
+}
